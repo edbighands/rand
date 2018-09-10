@@ -1,5 +1,5 @@
 # rand
-#random codes
+
 The Online Room Reservation App eclipse workspace has been checked-in. It contains the src, Webcontent along with all libraries needed. Note: It contains the entire codes and app flow except the HTML.
 
 
